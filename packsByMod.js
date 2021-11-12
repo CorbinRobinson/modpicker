@@ -1,3 +1,22 @@
+function populateModpackList(){
+    const modlistElements = [];
+    const modlistNames = [
+        "ATM6",
+        "skyFactory",
+        "RLCraft"
+    ];
+
+    for(var i=0; i<modlistNames.length; i++){
+        modlistElements[i] = document.createElement("li");
+        const image = document.createElement("img")
+        image.src = "img/"+modlistNames[i]+".png";
+        image.className = "pack"
+        modlistElements[i].setAttribute('id', "modpack"+i)
+        modlistElements[i].appendChild(image)
+        document.getElementById("packs__list").appendChild(modlistElements[i]);
+    }
+}
+
 function setSearchOnClick(){
     var searchButton = document.getElementById("search");
     searchButton.addEventListener("click", search);
@@ -27,6 +46,6 @@ function search(){
     }
 }
 
-
+populateModpackList();
 setSearchOnClick();
 //setCheckboxOnClick();
