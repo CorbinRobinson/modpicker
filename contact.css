@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #23272A;
+}
+
+li, a, button{
+    font-family: "Roboto", sans-serif;
+    color: rgb(240, 240, 240);
+    text-decoration: none;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    background: #23272A;
+    color: rgb(240, 240, 240);
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+}
+
+#nav__links{
+    list-style: none;
+}
+
+#nav__links ul{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+#nav__links li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+#nav__links li a{
+    transition: all 0.3 ease 0s;
+}
+
+#nav__links li a:hover{
+    color: darkcyan;
+}
+
+#logo{
+    cursor: pointer;
+}
+
+button{
+    padding: 9px 25px;
+    background-color: rgb(152, 177, 243);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+button:hover{
+    background-color: darkred;
+}
+
+#myCanvas{
+    position: fixed;
+    z-index: 15;
+    top: 50%;
+    left: 50%;
+    margin: -250px 0 0 -250px;
+    background: whitesmoke;
+}
+
+#canvasSend{
+    position: absolute;
+    top: 85%;
+    left: 47%;
+    margin: -4.5px 0 0 -12.5px;
+}
