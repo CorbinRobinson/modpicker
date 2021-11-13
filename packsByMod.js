@@ -1,21 +1,31 @@
+// import modpack from './modpackClass.js'
+
+class modpack{
+    constructor(name, modlist){
+        this.name = name
+        this.modlist = modlist;
+    }
+}
+
 function populateModpackList(){
-    const modlistElements = [];
-    const modlistNames = [
+    var modpackListElements = [];
+    var modpackListNames = [
         "ATM6",
         "skyFactory",
         "RLCraft"
     ];
 
-    for(var i=0; i<modlistNames.length; i++){
-        modlistElements[i] = document.createElement("li");
+    for(var i=0; i<modpackListNames.length; i++){
+        modpackListElements[i] = document.createElement("li");
         const image = document.createElement("img")
-        image.src = "img/"+modlistNames[i]+".png";
+        image.src = "img/"+modpackListNames[i]+".png";
         image.className = "pack"
-        modlistElements[i].setAttribute('id', "modpack"+i)
-        modlistElements[i].appendChild(image)
-        document.getElementById("packs__list").appendChild(modlistElements[i]);
+        modpackListElements[i].setAttribute('id', "modpack"+i)
+        modpackListElements[i].appendChild(image)
+        document.getElementById("packs__list").appendChild(modpackListElements[i]);
     }
 }
+
 
 function setSearchOnClick(){
     var searchButton = document.getElementById("search");
@@ -48,4 +58,3 @@ function search(){
 
 populateModpackList();
 setSearchOnClick();
-//setCheckboxOnClick();
