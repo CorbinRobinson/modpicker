@@ -109,15 +109,15 @@ button:hover {
 }
 
 .pack {
-  max-width: 15%;
+  width: 100px;
   height: auto;
 }
+
 #packs__list {
   list-style: none;
 }
 
 #packs__list ul {
-  min-width: 696px;
   list-style: none;
   padding: 20px 25px;
 }
@@ -126,5 +126,5 @@ button:hover {
   padding: 10px;
   display: inline;
   height: 300px;
-  width: auto;
+  width: 300px;
 }

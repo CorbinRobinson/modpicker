@@ -1,0 +1,202 @@
+AromaBackup
+Astral Sorcery
+B.A.S.E
+Building Gadgets
+Carry On
+Ceramics
+Chargers
+Common Capabilities
+Construct's Armory
+ContentTweaker
+Controlling
+CraftTweaker
+Cyclic
+Cyclops Core
+Flux Networks
+Foam​Fix
+In Control!
+Integrated Dynamics
+Integrated Tunnels
+Just Enough Items (JEI)
+ModTweaker
+MTLib
+NuclearCraft
+OpenBlocks Elevator
+Patchouli
+Prestige
+Primitive Crafting
+Recipe Stages
+Rustic
+Simple Storage Network
+Tesla Core Lib
+The Twilight Forest
+Topography
+Torchmaster
+Advancement Book
+AE2 Stuff
+Animal Crops
+Apotheosis
+AppleSkin
+Applied Energistics 2
+Aroma1997Core
+Barrels, Drums, Storage & More
+Baubles
+BdLib
+Bed Patch
+Better Advancements
+BiblioCraft
+BnBGamingCore
+BNBGamingLib
+Bonsai Trees 2
+Bookshelf
+Bouncy Creepers
+Calm Down Zombie Guy
+CB Multipart
+ChineseWorkshop
+Chisel
+Chisels & Bits
+Click Machine
+Client Tweaks
+Clumps
+CodeChicken Lib 1.8.+
+CoFH Core
+CoFH World
+Coloured Tooltips
+Compact Machines
+CompactStorage
+ComPatchedStorage
+ConnectedTexturesMod
+Cooking for Blockheads
+Cucumber Library
+Culinary Construct
+Custom Main Menu
+Dark Utilities
+Deep Mob Learning
+Default Options
+Dimension Stages
+Dragon Murder
+Enchantment Descriptions
+Ender Crop
+Ender Storage 1.8.+
+Ender Utilities
+EnderCore
+Extended Crafting
+ExtraCells2
+Fancy Block Particles
+Farming for Blockheads
+FastFurnace
+FastWorkbench
+Fence Overhaul
+FindMe
+Forgiving Void
+Game Stages
+Guide-API
+Headcrumbs
+Horse Power
+Hunting Dimension
+Hurt Animation Remover
+Hwyla
+ID Squeezer Tweak
+Ignition: HydroGel
+Industrial Foregoing
+Inspirations
+Inventory Sorter
+Iron Jetpacks
+Item Stages
+JourneyMap
+KleeSlabs
+Limitless Structure Blocks
+Loading Screens
+MalisisCore
+MalisisDoors
+Mantle
+Matter Overdrive: Legacy Edition
+McJtyLib
+MCMultiPart
+Mekanism
+Mekanism Generators
+Mercurius
+Mob Grinding Utils
+Mob Stages
+More Buckets
+More Cauldrons
+More Overlays
+Morpheus
+Mouse Tweaks
+MPUtils
+MPUtils Basic Tools
+Mystcraft
+Mystical Agradditions
+Mystical Agriculture
+Neat
+OC XNet Driver
+OGDragon +
+OpenComputers
+Ore Excavation
+Parabox
+Pickle Tweaks
+PigUtils
+Pipe Goggles
+Placebo
+PlaneFix
+Portal Gun
+Practical Logistics 2
+ProjectE
+Proportional Destruction Particles
+Ranged Pumps
+Real Filing Cabinet
+ReAuth
+Redstone Flux
+Resource Hogs
+Resource Loader
+RFTools Power
+Shadowfacts' Forgelin
+Simple Generators
+Sky Bonsais
+Sky Grid
+Sky Orchards
+Slab Machines
+SlimyBoyos
+Smooth Font
+Snad
+Sonar Core
+Statues
+Stuff A Sock In It
+Subheads (formerly Twitchcrumbs)
+Super Sound Muffler: Revived
+Surge
+SwingThroughGrass
+Sync
+TallGates
+TelePastries
+The Lost Cities
+The Weirding Gadget
+Thermal Dynamics
+Thermal Foundation
+Thermal Innovation
+Tinkers Construct
+Tinkers' Complement
+Tinkers' Tool Leveling
+Tiny Progressions
+TipTheScales
+Toast Control
+Together Forever
+Tombstone: Revived
+Translocators 1.8.+
+Tree Growing Simulator
+Triumph
+Uppers
+ValkyrieLib
+ViesCraft - Airships!
+Waddles
+Waila Stages
+Wall-Jump! [FORGE]
+Wawla - What Are We Looking At
+WitherCrumbs
+World Book
+World Utils
+XL Food Mod
+XNet
+YNot
+Yoyos
+ZenStages

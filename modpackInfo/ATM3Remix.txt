@@ -1,0 +1,296 @@
+[ANGRY PIXEL] The Betweenlands
+Actually Additions
+ActuallyComputers
+Advanced Rocketry
+AgriCraft
+AI Improvements
+Aroma1997s Dimensional World
+Astral Sorcery
+B.A.S.E
+Botania
+Brandon's Core
+Building Gadgets
+CC: Tweaked
+Common Capabilities
+Construct's Armory
+ContentTweaker
+Controlling
+Corail Tombstone
+CraftTweaker
+Cyclic
+Cyclops Core
+Draconic Evolution
+Electroblob's Wizardry
+Embers Rekindled
+Ender IO
+Ender IO Endergy
+Extreme Reactors
+Foam​Fix
+FTB Utilities (Forge)
+GunpowderLib
+Immersive Petroleum
+In Control!
+Industrial Craft
+InfinityLib
+Integrated Crafting
+Integrated Dynamics
+Integrated Terminals
+Integrated Tunnels
+Integration Foregoing
+JAOPCA
+JAOPCAAgriculture
+Just Enough Items (JEI)
+LibrarianLib
+LibraryEx
+LibVulpes
+ME Capability Adapter
+Mekanism
+Mekanism Generators
+Mekanism Tools
+ModTweaker
+MTLib
+Mystical World
+MysticalLib
+NetherEx
+NuclearCraft
+Patchouli
+Psi
+RandomPatches (Forge)
+RandomTweaks
+Reborn Core
+Roots
+Rustic
+Simply Jetpacks 2
+Tesla Core Lib
+The Twilight Forest
+ThermalLogistics
+TickCentral
+UniDict
+WanionLib
+Water Strainer
+Wizardry Mod
+Worley's Caves
+Xtones
+xXx_MoreToolMats_xXx (a PlusTiC fork without the evil, and apparently some new bugs idk)
+ZeroCore 2
+Actually Baubles
+Advanced Generators
+AE2 Stuff
+AE2 Wireless Fluid Terminal
+AE2 Wireless Interface Terminal
+AE2 Wireless Terminal Library
+Akashic Tome
+All the Mods: Tweaks
+AppleCore
+AppleSkin
+Applied Energistics 2
+Armory Expansion
+Aroma1997Core
+AttributeFix
+AutoRegLib
+Backpacks
+Baubles
+Baubley Heart Canisters
+BdLib
+Better Advancements
+Better Builder's Wands
+Better Than Mending
+BetterFps
+BiblioCraft
+Binnie's Mods
+Biomes O' Plenty
+Bird's Foods
+Blockcraftery
+Blood Magic
+BloodyLib
+Bonsai Trees 2
+Bookshelf
+Born in a Barn
+Career Bees
+CB Multipart
+Chameleon
+ChatFlow
+Chicken Chunks 1.8.+
+Chisel
+Chisels & Bits
+ChunkGenLimiter
+Classic Bars
+Client Tweaks
+Clumps
+CodeChicken Lib 1.8.+
+CoFH Core
+CoFH World
+Compact Machines
+CompatLayer
+ConnectedTexturesMod
+Cooking for Blockheads
+Cosmetic Armor Reworked
+Crafting Tweaks
+Cucumber Library
+Culinary Construct
+Custom Backgrounds
+Custom Main Menu
+Dark Utilities
+Deep Resonance
+Default Options
+Diet Hoppers
+DiscordSuite
+ElecCore
+Ender Storage 1.8.+
+EnderCore
+Environmental Creepers
+Environmental Lunar Tech
+Environmental Tech
+Extra Rails
+Extra Utilities
+ExtraCells2
+FastFurnace
+FastWorkbench
+Fence Jumper
+Flat Colored Blocks
+Floralchemy
+Forestry
+FTB Backups (Forge)
+FTB Library (Forge) (Legacy)
+Funky Locomotion
+Gendustry
+Good Ol' Currency
+Guide-API
+Guidebook
+Hooked
+iChunUtil
+IE Cloche Compat
+Immersive Engineering
+Immersive Tech
+Industrial Foregoing
+Industrial Wires
+Initial Inventory
+Inventory Generators
+Inventory Tweaks [1.12 only]
+Iron Chests
+JAOPCAAdditions
+JEI Bees
+JEI Integration
+JourneyMap
+Just Enough Dimensions
+Just Enough Energistics (JEE)
+Just Enough Petroleum
+Just Enough Reactors
+Just Enough Resources (JER)
+KJLib
+KleeSlabs
+LagGoggles
+Lost Souls
+LunatriusCore
+Magic Bees
+MalisisCore
+MalisisDoors
+Mantle
+McJtyLib
+MobTotems
+Mod Name Tooltip
+Modpack Configuration Checker
+More Overlays
+Morph-o-Tool
+Morpheus
+Mouse Tweaks
+MPUtils
+MPUtils Basic Tools
+MrTJPCore
+Mystical Agradditions
+Mystical Agriculture
+Mystical Agriculture Tiered Crystals
+Nature's Compass
+No Mob Spawning on Trees
+Not Enough Wands
+NotEnoughIDs
+OpenBlocks
+OpenComputers
+OpenComputers Drivers for Tinkers Construct
+OpenModsLib
+Ore Excavation
+Ore Excavation Integration
+Overloaded
+p455w0rd's Library
+Pack Crash Info
+PackMode
+Phosphor (Forge)
+Placebo
+Plants
+PneumaticCraft: Repressurized
+Portal Gun
+Portality
+Pressure Pipes
+Project Intelligence
+Project Red - Compat
+Project Red - Core
+Project Red - Expansion
+Project Red - Exploration
+Project Red - Fabrication
+Project Red - Illumination
+Project Red - Integration
+Quark
+Quick Leaf Decay
+Random Things
+Ranged Pumps
+ReAuth
+Reborn Storage
+Redstone Arsenal
+Redstone Flux
+Refined Storage
+Refined Storage Addons
+Reliquary v1.3
+Resource Loader
+RFTools
+RFTools Control
+RFTools Dimensions
+RFTools Power
+RFTools Power / OC Integration
+Roguelike Dungeons
+Schematica
+Shadowfacts' Forgelin
+ShadowMC
+Shield Parry
+Soul Shards Respawn
+SplashAnimation
+Steve's Carts Reborn
+Storage Drawers
+Storage Drawers Extras
+Superior Shields
+SwingThroughGrass
+TATW
+Tech Reborn
+Thaumcraft
+Thaumcraft 6 Aspects for JEI
+Thaumic Computers
+Thaumic Inventory Scanning (Thaumcraft Addon)
+Thaumic JEI
+Thaumic Periphery
+The Lost Cities
+The One Probe
+Thermal Cultivation
+Thermal Dynamics
+Thermal Expansion
+Thermal Foundation
+Thermal Innovation
+Tinker's JEI
+Tinkers Construct
+Tinkers' Tool Leveling
+Toast Control
+TOP Addons
+Transport
+Traverse Reforged
+Unloader
+ValkyrieLib
+WAIM - What am I missing?
+Waystones
+Wetstone
+Wireless Crafting Terminal
+Wireless Pattern Terminal
+WirelessCharger
+Woot
+World Primer
+WrapUp
+XL Food Mod
+XNet
+YNot

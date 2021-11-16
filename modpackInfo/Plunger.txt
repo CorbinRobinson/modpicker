@@ -1,0 +1,243 @@
+Artifacts
+Blur
+CC: Tweaked
+Clumps
+CodeChicken Lib 1.8.+
+Collective (Forge)
+Connected Glass
+Create
+Cycle Paintings (Forge)
+Doggy Talents
+Dungeon Crawl
+FancyMenu [Forge]
+Just Enough Items (JEI)
+Konkrete [Forge]
+Light Overlay (Rift/Forge/Fabric)
+Macaw's Bridges
+Macaw's Doors
+MixinBootstrap
+Name Tag Tweaks (Forge)
+Packed Up (Backpacks)
+Placebo
+Security Craft
+Serene Seasons
+ShetiPhianCore
+Simple Storage Network
+Sit
+Trash Cans
+Xaero's Minimap
+Xaero's World Map
+XP Tome
+"To the Bat Poles!"
+Additional Bars [FORGE]
+Additional Enchanted Miner
+Advanced Chimneys
+AI Improvements
+Akashic Tome
+Apotheosis
+AppleSkin
+Aquaculture 2
+Archer's Paradox
+AttributeFix
+Auto Feeder Helmet [FORGE]
+AutoRegLib
+Bad Wither No Cookie - Reloaded
+Bamboo Everything (Forge)
+Bedspreads (Forge)
+Better Advancements
+Better Beacon Placement (Forge)
+Better Conduit Placement (Forge)
+Big Buckets
+Biomes O' Plenty
+Blueprint
+Bonsai Trees 2
+Bookshelf
+Botania
+Botany Pots
+Bound Totems
+Bountiful (Forge)
+Building Gadgets
+Buzzier Bees
+Campfire Torches
+Champions
+ChineseWorkshop
+Click Machine
+Cloth Config API (Forge)
+CobbleForDays
+CoFH Core
+Comforts (Forge)
+ConnectedTexturesMod
+Controlling
+Cooking for Blockheads
+Corail Tombstone
+Cosmetic Armor Reworked
+Crafting Automat
+Crafting Tweaks
+CraftTweaker
+Create Crafts & Additions
+Cucumber Library
+Curio of Undying (Forge)
+Curios API (Forge)
+Custom FoV (Forge)
+Cute Kiwi Birds - new animal
+Cyclic
+Dank Storage
+Dark Utilities
+Decorative Blocks
+Default Options
+Default World Type [Forge]
+Ding
+Draw Bridge
+Dynamic View
+Enchanted Book Redesign
+Enchantment Descriptions
+Ender Magnet
+Ender Mail
+Ender Storage 1.8.+
+Engineer's Decor
+Engineer's Tools
+Extended Lights
+Extra Boats
+Extra Disks
+Extra Golems
+Extra Tags
+FakeBlocks
+FallingTree (Forge&Fabric)
+Farming for Blockheads
+Fast Leaf Decay
+FastFurnace
+FastWorkbench
+FindMe
+Forbidden and Arcanus
+ForgeEndertech
+FTB Chunks (Forge)
+FTB Library (Forge)
+FTB Quests (Forge)
+FTB Ranks (Forge)
+FTB Teams (Forge)
+FTB Ultimine (Forge)
+Gauges and Switches
+Global Data- & Resourcepacks
+GoProne
+Guard Villagers
+Harvest Sprites
+Healing Campfire (Forge)
+Hwyla
+Immersive Engineering
+Immersive Posts
+Industrial Foregoing
+Inventory Generators
+Inventory Spam
+Inventory Tweaks Renewed
+Iron Chests
+Iron Jetpacks
+Item Filters (Forge)
+JEITweaker
+Jumbo Furnace
+Just Enough Calculation
+Just Enough Resources (JER)
+Kiwi �?
+KleeSlabs
+Kottle
+Libnonymous
+Lighting Wand 🌟
+Lollipop
+Ma Enchants
+Ma Essentials
+Macaw's Furniture
+Macaw's Roofs
+Macaw's Windows
+McJtyLib
+Mekanism
+Mekanism Additions
+Mekanism Generators
+Mekanism Tools
+Miner's Helmet
+Morph-o-Tool
+Morpheus
+Mouse Tweaks
+MrCrayfish's Furniture Mod
+Mystical Agradditions
+Mystical Agriculture
+Mystical Customization
+Nature's Compass
+NetherPortalFix
+No Hostiles Around Campfire (Forge)
+NoMoWanderer
+OpenBlocks Elevator
+Overloaded
+Packing Tape
+Paintings ++
+Pandoras Creatures
+Patchouli
+Phosphor (Forge)
+PlantTech 2
+Portable Nether
+Portality
+Potion of Bees
+Potions Master
+Powah!
+Prefab
+Pretty Pipes
+Quark
+Quartz Chests
+RandomPatches (Forge)
+Ranged Pumps
+Rare Ice (Forge/Fabric)
+ReAuth
+Refined Storage
+Refined Storage Addons
+Reliquary v1.3
+Repurposed Structures (Forge)
+RFTools Base
+RFTools Builder
+RFTools Power
+RFTools Storage
+RFTools Utility
+Savage & Ravage
+Save My Stronghold! (Forge)
+Scalable Cat's Force
+Server Tab Info
+Silent Gear
+Silent Lib (silentlib)
+Silent's Gems
+Silent's Mechanisms
+Simple Chunk Loaders
+Simple Discord Rich Presence
+Speedy Hoppers
+Speedy Ladders
+Storage Drawers
+SwingThroughGrass
+TerraForged
+The Bumblezone (Forge)
+The Endergetic Expansion
+The Midnight
+Thermal Cultivation
+Thermal Expansion
+Thermal Foundation
+Thermal Innovation
+Tiny Mob Farm
+Titanium
+Torch Slabs Mod
+Torchmaster
+Towers Of The Wild
+Trample Stopper
+TrashSlot
+Traveler's Backpack
+Traveller's Boots
+U Team Core
+Useful Railroads
+ValkyrieLib
+Villager Memory Tweaks (VMT) [FORGE/FABRIC]
+Villager Names (Forge)
+Water Strainer
+Wawla - What Are We Looking At
+Waystones
+Woot
+WTBW Core
+WTBW Decoration
+WTBW Lib
+WTBW Machines
+WTBW Tools
+XNet
+YAMDA - Yet Another Mining Dimension Attempt

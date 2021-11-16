@@ -1,0 +1,192 @@
+BlockCarpentry
+CC: Tweaked
+Clumps
+CodeChicken Lib 1.8.+
+Inventory HUD+
+Macaw's Bridges
+Macaw's Doors
+Macaw's Roofs
+Macaw's Trapdoors
+MixinBootstrap
+Placebo
+Rhino
+Simple Storage Network
+SuperMartijn642's Config Lib
+TerraForged
+Xaero's Minimap
+Xaero's World Map
+YUNG's Better Mineshafts (Forge)
+Absent by Design
+AI Improvements
+AIOT Botania
+Akashic Tome
+AmbientSounds 4
+Apotheosis
+AppleSkin
+Aquaculture 2
+Archer's Paradox
+Armor Toughness Bar
+Astral Sorcery
+Atmospheric
+AttributeFix
+Atum 2: Return to the Sands
+AutoRegLib
+Autumnity
+Better Advancements
+Better Burning
+Better Title Screen
+Biomes O' Plenty
+Blueprint
+Bonsai Trees 2
+Bookshelf
+Botania
+Botany Pots
+Buzzier Bees
+Caelus API (Forge)
+Carry On
+Cherished Worlds (Forge)
+Chicken Chunks 1.8.+
+Chunk Loaders
+Cloth Config API (Forge)
+CoFH Core
+Comforts (Forge)
+Controlling
+Cooking for Blockheads
+Cosmetic Armor Reworked
+Crafting Tweaks
+Create
+Curio of Undying (Forge)
+Curios API (Forge)
+Curious Elytra (Forge)
+Dark Utilities
+Decorative Blocks
+Default Options
+Druidcraft
+EmbellishCraft
+Ender Storage 1.8.+
+Engineer's Decor
+Enhanced Mushrooms (Forge)
+Ensorcellation
+Equipment Tooltips
+Essentials
+Extended Lights
+Extra Disks
+Fairy Lights
+Fast Leaf Decay
+FastFurnace
+FastWorkbench
+Flux Networks
+Forbidden and Arcanus
+Fruit Trees �?�
+FTB Backups (Forge)
+Goblin Traders
+Health Overlay (Forge)
+Hwyla
+Immersive Engineering
+Incubation
+Industrial Foregoing
+Inventory Sorter
+Iron Chests
+JAOPCA
+JEI Enchantment Info
+JEI Integration
+JEITweaker
+Joy of Painting
+Just Enough Items (JEI)
+Just Enough Resources (JER)
+Kiwi �?
+Kottle
+KubeJS (Forge)
+Leaves Decay on other Leaves
+Libnonymous
+Light Overlay (Rift/Forge/Fabric)
+Lightest Lamps
+Lollipop
+Macaw's Furniture
+Macaw's Windows
+Mapper Base
+McJtyLib
+Mekanism
+Mekanism Additions
+Mekanism Generators
+Mekanism Tools
+MineColonies
+Miner's Helmet
+Mining Gadgets
+Mouse Tweaks
+Mowzie's Mobs
+MrCrayfish's Furniture Mod
+Music Maker Mod
+Mystical World
+MysticalLib
+Nature's Compass
+Neat
+Neon Craft Mod
+ObserverLib
+OldJavaWarning
+Open Loader
+OpenBlocks Elevator
+Overloaded Armor Bar
+PackMenu
+Paintings ++
+Patchouli
+Performant
+Phosphor (Forge)
+Polymorph (Forge)
+Powah!
+Progressive Bosses
+Psi
+Quark
+Quark Oddities
+RandomPatches (Forge)
+ReAuth
+Refined Pipes
+Refined Storage
+Refined Storage Addons
+RFTools Base
+RFTools Builder
+RFTools Control
+RFTools Power
+RFTools Storage
+RFTools Utility
+Savage & Ravage
+Scenic
+Scuba Gear
+Server Tab Info
+ServerConfig Updater
+Silent Gear
+Silent Lib (silentlib)
+Silent's Mechanisms
+Simple Discord Rich Presence
+Simple Farming
+Snow Under Trees
+Snow! Real Magic! ⛄
+Solar Flux Reborn
+Storage Drawers
+Structure Gel API
+Structurize
+Supplementaries
+Swamp Expansion
+SwingThroughGrass
+TableChair
+The Conjurer
+The Endergetic Expansion
+The Midnight
+The Mighty Architect
+Titanium
+Toast Control
+Tool Belt
+Torch Slabs Mod
+Torchmaster
+Trash
+TrashSlot
+U Team Core
+Upgrade Aquatic
+Useful Backpacks
+Valhelsia Structures
+Waddles
+Waila Harvestability
+Wawla - What Are We Looking At
+Waystones
+Windowlogging
+XNet

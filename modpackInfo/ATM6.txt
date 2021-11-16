@@ -1,0 +1,344 @@
+Advanced Chimneys
+Advanced Peripherals
+Ars Nouveau
+Botania
+Botany Pots
+Caelus API (Forge)
+Cloth Config API (Forge)
+Collective (Forge)
+Configurable Extra Mob Drops (Forge)
+Corail Tombstone
+Curious Elytra (Forge)
+Cyclic
+Cyclops Core
+Dungeon Crawl
+Engineer's Tools
+Entangled
+Environmental Core
+ForgeEndertech
+FTB Chunks (Forge)
+FTB Library (Forge)
+FTB Ultimine (Forge)
+Gauges and Switches
+GeckoLib
+Hammer Lib
+Iceberg
+Integrated Crafting
+Integrated Dynamics
+Integrated Terminals
+Integrated Tunnels
+Just Enough Items (JEI)
+KubeJS (Forge)
+Legendary Tooltips
+Lighting Wand 🌟
+Macaw's Bridges
+Mahou Tsukai
+Mana and Artifice
+Mekanism
+Mekanism Additions
+Mekanism Generators
+Mekanism Tools
+More Minecarts and Rails
+Mystical Agradditions
+Mystical Agriculture
+Mystical Customization
+Pipez
+PneumaticCraft: Repressurized
+Polymorph (Forge)
+Portality
+Repurposed Structures (Forge)
+Rhino
+Selene Lib
+Shrink.
+Sophisticated Backpacks
+Structurize
+SuperMartijn642's Core Lib
+Supplementaries
+Tinkers Construct
+Tiny Redstone
+Titanium
+Upgrade Aquatic
+Valhelsia Core
+ValkyrieLib
+Waystones
+/tank/null
+Absent by Design
+Additional Enchanted Miner
+Advancement Plaques
+AE2 Extras
+AIOT Botania
+Akashic Tome
+All The Tweaks
+AllTheCompressed
+Allthemodium
+Angel Ring
+Apotheosis
+AppleSkin
+Applied Energistics 2
+Aquaculture 2
+Archer's Paradox
+Architectury API (Forge)
+Artifacts
+Astral Sorcery
+ATM: Additions
+ATO - All the Ores
+AttributeFix
+AutoRegLib
+Babel
+Bad Wither No Cookie - Reloaded
+Bag of Yurting
+Balanced Enchanting
+Better Advancements
+Better Biome Blend
+Bigger Reactors
+Biomes O' Plenty
+Blood Magic
+Blueprint
+Bookshelf
+Botanical Machinery
+Botany Trees
+Brandon's Core
+Builders Crafts & Additions (Forge)
+Building Gadgets
+Cable Tiers
+Cartographer
+Cat Jammies
+CB Multipart
+CC: Tweaked
+Centrifuge Tiers
+Chipped
+Chisel
+Chocolate Fix
+Citadel
+CleanCut
+Client Tweaks
+Clumps
+CodeChicken Lib 1.8.+
+CoFH Core
+Comforts (Forge)
+Common Capabilities
+Compact Machines
+Compressium
+ConnectedTexturesMod
+Connectivity
+Construction Wand
+Controlling
+Cooking for Blockheads
+Corail Woodcutter
+Cosmetic Armor Reworked
+Crafting Station
+Crafting Tweaks
+Crash Utilities
+Create
+Create Crafts & Additions
+Creative Apiary
+Creative Crafter
+Creative Wireless Transmitter
+Cucumber Library
+Culinary Construct
+Curio of Undying (Forge)
+Curios API (Forge)
+Dank Storage
+Dark Utilities
+DataPack Anvil
+Default Options
+Demagnetize
+DimStorage
+Ding
+Draconic Evolution
+Drawers Tooltip
+Dynamic View
+Eidolon
+Elemental Craft
+Enchantment Descriptions
+EnderChests
+EnderTanks
+Engineer's Decor
+Ensorcellation
+Environmental Energy
+Environmental Materials
+Environmental Tech
+Equipment Compare
+Exchangers
+ExpandAbility
+Explorer's Compass
+Extra Disks
+ExtraStorage
+Extreme sound muffler (Forge)
+Farming for Blockheads
+Fast Furnace minus Replacement
+Fast Leaf Decay
+FastWorkbench
+FerriteCore (Forge)
+FindMe
+Flat Bedrock
+FlickerFix
+Flux Networks
+Flywheel
+Forbidden and Arcanus
+Framed Compacting Drawers
+FramedBlocks
+FTB Backups (Forge)
+FTB Essentials (Forge)
+FTB Quests (Forge)
+FTB Ranks (Forge)
+FTB Teams (Forge)
+Get It Together, Drops!
+Glassential
+Global XP
+GunpowderLib
+Ice and Fire: Dragons
+Immersive Engineering
+Immersive Petroleum
+Immersive Posts
+In Control!
+Industrial Foregoing
+Integrated NBT
+Inventory Tweaks Renewed
+Iron Chests
+Iron Furnaces [FORGE]
+Iron Jetpacks
+Item Filters (Forge)
+JEI Integration
+JEI Professions
+Jumbo Furnace
+Just Enough Piglin Bartering
+Just Enough Resources (JER)
+Kotlin for Forge
+KubeJS Blood Magic
+KubeJS Create
+KubeJS Immersive Engineering
+KubeJS Mekanism
+KubeJS Thermal
+LazierAE2
+Lazy DataFixerUpper(LazyDFU) [FORGE]
+LibX
+Light Overlay (Rift/Forge/Fabric)
+Login Protection
+Lollipop
+Lootr
+Macaw's Doors
+Macaw's Fences and Walls
+Macaw's Roofs
+Macaw's Trapdoors
+Macaw's Windows
+Mana Gear
+Mantle
+McJtyLib
+Metal Barrels
+MineColonies
+Mining Gadgets
+MmmMmmMmmMmm (Target Dummy)
+Mob Grinding Utils
+Mod Name Tooltip
+Modular Routers
+Morph-o-Tool
+Mouse Tweaks
+MrCrayfish's Furniture Mod
+MythicBotany
+Nature's Aura
+Nature's Compass
+NetherPortalFix
+No Villager Death Messages
+NoMoWanderer
+Observable
+ObserverLib
+Oh My Gourd
+Oh The Biomes You'll Go
+OpenBlocks Elevator
+Overloaded Armor Bar
+PackMenu
+Pam's HarvestCraft 2 - Crops
+Pam's HarvestCraft 2 - Food Core
+Pam's HarvestCraft 2 - Food Extended
+Pam's HarvestCraft 2 - Trees
+Patchouli
+Pedestals
+Phosphophyllite
+Pickle Tweaks
+Placebo
+Platforms
+PonderJS
+Potions Master
+Powah!
+Project Red - Core
+Project Red - Exploration
+Project Red - Illumination
+Project Red - Integration
+Project Red - Transmission
+Psi
+Pylons
+Quark
+RandomPatches (Forge)
+Ranged Pumps
+Refined Storage
+Refined Storage Addons
+Refined Storage: Requestify
+Reliquary v1.3
+Resourceful Bees
+Restrictions
+RFTools Base
+RFTools Builder
+RFTools Control
+RFTools Dimensions
+RFTools Power
+RFTools Storage
+RFTools Utility
+Ropes Mod!
+RSInfinityBooster
+Runelic
+Save My Stronghold! (Forge)
+Scalable Cat's Force
+Scorge
+Scuba Gear
+ShetiPhianCore
+Shutup Experimental Settings!
+Silent Gear
+Silent Lib (silentlib)
+Simple Magnets
+Simply Light
+Small Ships
+Solar Flux Reborn
+Sound Device Options
+spark
+Spawner Bug Fix
+Spice of Life: Carrot Edition
+Starter Kit (Forge)
+Storage Drawers
+SuperMartijn642's Config Lib
+TerraForged
+The Lost Cities
+The Mighty Architect
+The One Probe
+The Twilight Forest
+Thermal Cultivation
+Thermal Expansion
+Thermal Foundation
+Thermal Innovation
+Thermal Locomotion
+Tinkers' Mechworks
+Toast Control
+Tome of Blood
+Tool Belt
+TOP Addons
+Torchmaster
+Trample Stopper
+Translocators 1.8.+
+Trash Cans
+TrashSlot
+Travel Anchors
+U Team Core
+Useful Backpacks
+Useful Railroads
+Water Strainer
+Windowlogging
+Wither Skeleton Tweaks
+Woot
+XNet
+XNet Gases
+XP Tome
+YUNG's API (Forge)
+YUNG's Better Dungeons (Forge)
+YUNG's Better Mineshafts (Forge)
+YUNG's Better Strongholds (Forge)
+ZYCraft

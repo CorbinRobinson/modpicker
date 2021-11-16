@@ -1,0 +1,256 @@
+"To the Bat Poles!"
+[ANGRY PIXEL] The Betweenlands
+AbyssalCraft
+AbyssalCraft Integration
+Actually Additions
+Antique Atlas
+AstikorCarts [Horse Carts]
+Astral Sorcery
+AutoRegLib
+B.A.S.E
+Better Foliage
+Better With Addons
+Better With Mods
+Blood Magic
+Bookshelf
+BuildCraft|Builders
+BuildCraft|Core
+BuildCraft|Factory
+BuildCraft|Robotics
+BuildCraft|Silicon
+BuildCraft|Transport
+Building Gadgets
+Carry On
+CB Multipart
+CD4017BE Library
+Ceramics
+Chargers
+Chisel
+Common Capabilities
+ConnectedTexturesMod
+Construct's Armory
+ContentTweaker
+Controlling
+Corail Tombstone
+CraftTweaker
+Cyclic
+Cyclops Core
+ExtraPlanets
+Farseek
+Foam​Fix
+Geolosys
+Immersive Petroleum
+In Control!
+Inductive Logistics
+Integrated Dynamics
+JourneyMap
+Just Enough Items (JEI)
+LibraryEx
+MJRLegends Lib
+Mo' Bends
+ModTweaker
+Modular Machinery
+MTLib
+Nature's Compass
+NetherEx
+OpenBlocks Elevator
+PneumaticCraft: Repressurized
+Prestige
+PrimalCore
+QuantumStorage
+Quark
+RandomPatches (Forge)
+Reborn Core
+Recipe Stages
+Redstone Flux
+Rustic
+Scannable
+SevPatches
+Shadowfacts' Forgelin
+Simple Storage Network
+SimpleHarvest
+SpatialCompat
+Streams
+Tesla Core Lib
+The Beneath
+The Twilight Forest
+Tinkers Construct
+WanionLib
+Water Strainer
+Yoyos
+A Block of Charcoal
+Actually Baubles
+Advanced Generators
+Animalium
+AppleSkin
+Applied Energistics 2
+ArmoreableMobs
+Aroma1997Core
+AromaBackup
+AutoRun
+Baubles
+BdLib
+Bedrock B Gone
+Better Advancements
+Better Builder's Wands
+Better With Lib (BWM - Core)
+BetterFps
+BiblioCraft
+BnBGamingCore
+BNBGamingLib
+Bonsai Trees 2
+Bring Back Bedrock
+Chameleon
+Chisels & Bits
+Client Tweaks
+Clumps
+CodeChicken Lib 1.8.+
+Coloured Tooltips
+Compact Machines
+Cooking for Blockheads
+Cucumber Library
+Custom Main Menu
+Dark Utilities
+Death Compass
+Default Options
+Despawning Spawners
+Dimension Stages
+Dimensional Control
+Dung Pipe
+EmberRoot Zoo
+Enchantment Descriptions
+Ender Storage 1.8.+
+Ender Utilities
+Environmental Tech
+Extended Crafting
+Fancy Block Particles
+Farming for Blockheads
+FastFurnace
+FastWorkbench
+Fat Cat
+Ferdinand's Flowers
+FindMe
+galacticraft mod by micdoodle8
+Galacticraft Tweaker
+Game Stages
+Giant Player Boss
+Gobble Core
+Guide-API
+Horse Power
+Hunting Dimension
+Hwyla
+Immersive Craft
+Immersive Engineering
+Immersive Tech
+Improved Backpacks
+In-Game Wiki Mod
+Industrial Foregoing
+Informational Accessories
+Inventory Tweaks [1.12 only]
+Iron Backpacks
+Iron Chests
+Iron Jetpacks
+Item Stages
+IvToolkit
+JourneyMapStages
+Just a Few Fish
+Just A Raft Mod
+Just Enough Petroleum
+JustEnoughIDs
+KleeSlabs
+Loading Screens
+LootTableTweaker
+Magma Monsters
+Mantle
+McJtyLib
+Mekanism
+MekaTweaks
+Mercurius
+Mo' Villages
+Mob Grinding Utils
+Mob Stages
+Modular Routers
+More Overlays
+Morpheus
+Mouse Tweaks
+MPUtils
+MPUtils Basic Tools
+MultiBlock Stages
+Mundane Redstone Ore
+MystAgrad Cloche Compat
+Mystical Agradditions
+Mystical Agriculture
+Natura
+Neat
+No Recipe Book
+No Worldgen 5 You
+Ocean Floor - Clay Sand and Dirt
+Ore Excavation
+Ore Excavation Integration
+Ore Prospectors
+Ore Stages
+Overloaded
+Pickle Tweaks
+Placebo
+Player API
+Player Skin Mob
+Power Adapters
+Primal Tech
+PrimalChests
+Progression Tweaks
+project-501948
+Proportional Destruction Particles
+Quick Leaf Decay
+Ranged Pumps
+Realistic Item Drops
+ReAuth
+Reborn Storage
+Recurrent Complex
+Refined Storage
+Refined Storage Addons
+Resource Loader
+RFTools
+RFTools Control
+Road Runner
+SevTweaks
+Simple Generators
+Simply Arrows
+Smooth Font
+Spartan Shields
+Steve's Carts Reborn
+Storage Drawers
+Stuff A Sock In It
+Super Sound Muffler: Revived
+SwingThroughGrass
+TallGates
+The Weirding Gadget
+Thirsty Bottles
+Tinkers' Complement
+Tinkers' Tool Leveling
+TinkerStages
+TipTheScales
+Toast Control
+Together Forever
+Totemic
+Translocators 1.8.+
+Traverse Reforged
+Triumph
+Trumpet Skeleton
+Tumbleweed
+Ultimate Car Mod
+Uppers
+ValkyrieLib
+ViesCraft - Airships!
+Villager Trade Tables
+Waddles
+Waila Stages
+Wall-Jump! [FORGE]
+Water Control Extreme
+Wawla - What Are We Looking At
+Wild Crops
+Wither Skeleton Tweaks
+Wopper
+XNet
+YNot
+ZenLoot
+ZenStages

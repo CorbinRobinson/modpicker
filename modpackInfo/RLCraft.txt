@@ -1,0 +1,116 @@
+Advanced Hook Launchers
+AI Reducer
+Anvil Patch - lawful
+AtomicStryker's Infernal Mobs
+Better Foliage
+BountifulBaubles
+Carry On
+Corpse Complex
+CraftTweaker
+CreativeCore
+Disenchanter (The Disenchanter Mod)
+Doomlike Dungeons
+Dynamic Surroundings
+Dynamic Trees
+EnhancedVisuals
+First Aid
+Foam​Fix
+ForgeEndertech
+Grappling Hook Mod
+Ice and Fire: Dragons
+ISeeDragons
+It's the little things
+ItemPhysic Full
+Just Enough Items (JEI)
+Level Up! Reloaded
+LLibrary
+Lycanites Mobs
+Mo' Bends
+Mouse Tweaks
+No Tree Punching
+Phosphor (Forge)
+Realistic Torches
+Reborn Core
+RLTweaker
+Snow! Real Magic! ⛄
+So Many Enchantments
+Sound Filters
+Spartan and Fire
+Switch-Bow
+Tool Belt
+Trinkets and Baubles
+TschippLib
+Wolf Armor and Storage (Legacy)
+XP From Harvest
+XP Tome
+Advanced Fishing
+AlcatrazCore
+Antique Atlas
+Aquaculture 2
+Armor Underwear Mod [FORGE]
+AtomicStryker's Battle Towers
+AutoRegLib
+BacoDifficulty
+Baubles
+BaublesHud
+Better Combat Rebirth
+Better Survival mod
+Bloodmoon
+BNBGamingLib
+Born in a Barn
+Carrots Library [FORGE]
+Chunk Animator
+Comforts (Forge)
+CompatSkills
+copygirl's Wearable Backpacks
+CoralReef
+Craftable Horse Armour & Saddle [CHA&S]
+Custom Main Menu
+Defiled Lands
+Dynamic Surroundings: HUDs
+Dynamic Trees - Traverse Compat
+Enchantment Descriptions
+Familiar Fauna
+Fancy Block Particles
+Food Expansion
+Forgotten Items
+FriendlyEndermite
+Global GameRules
+Inventory Tweaks [1.12 only]
+IvToolkit
+Leo's Craftable Chainmail
+Loading Screens
+Lost Souls
+Main Menu Scale
+Mob Spawner Control
+Multi Mine
+Neat
+OreLib
+Potion Core
+Potion Rings
+Quality Tools
+Recurrent Complex
+Reskillable
+Resource Loader
+Roguelike Dungeons
+Rough Tweaks
+Ruins (Structure Spawning System)
+Scaling Health
+Serene Seasons
+Shadowfacts' Forgelin
+Silent Lib (silentlib)
+Simple Camp Fire
+Sit
+Spartan Shields
+Spartan Weaponry
+SwingThroughGrass
+TAN Campfire Spit
+The Lost Cities
+TickProfiler
+TNTUtils
+Tough As Nails
+Traverse Reforged
+Trumpet Skeleton
+Tumbleweed
+Varied Commodities
+Waystones

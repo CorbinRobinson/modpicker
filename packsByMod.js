@@ -8,6 +8,10 @@ class modpack{
 }
 
 function populateModpackList(){
+    var modpackList = [];
+    modpackList.push(new modpack("ATM3Remix", ["Thaumcraft", "Tech Rebord", "Toast Control"]))
+    modpackList.push(new modpack("ATM6", ["Quark", "Morph-o-Tool", "Immersive Posts"]))
+    modpackList.push(new modpack("Plunger", ["Ender Mail", "Crafting Tweaks", "Biomes O' Plenty"]))
     var modpackListElements = [];
     var modpackListNames = [
         "ATM6",
@@ -18,14 +22,35 @@ function populateModpackList(){
     for(var i=0; i<modpackListNames.length; i++){
         modpackListElements[i] = document.createElement("li");
         const image = document.createElement("img")
-        image.src = "img/"+modpackListNames[i]+".png";
+        image.src = "img/"+modpackList[i].name+".png";
         image.className = "pack"
         modpackListElements[i].setAttribute('id', "modpack"+i)
+        modpackListElements[i].setAttribute('title', modpackList[i].name)
         modpackListElements[i].appendChild(image)
         document.getElementById("packs__list").appendChild(modpackListElements[i]);
     }
 }
 
+function handleFiles(file) {
+
+    const fl = file
+    const reader = new FileReader();
+
+    reader.onload = (event) => {
+        const fl = event.target.result;
+        const allLines = fl.split(/\r\n|\n/);
+        // Reading line by line
+        allLines.forEach((line) => {
+            console.log(line);
+        });
+    };
+
+    reader.onerror = (event) => {
+        alert(event.target.error.name);
+    };
+
+    reader.readAsText(fl);
+}
 
 function setSearchOnClick(){
     var searchButton = document.getElementById("search");
@@ -58,3 +83,4 @@ function search(){
 
 populateModpackList();
 setSearchOnClick();
+readTextFile("modpackInfo/modpackInfo.txt")
