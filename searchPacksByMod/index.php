@@ -36,7 +36,7 @@
              <div id="grpCheckbox">
 
                  <div class="oneCheckbox">
-                     <input type="text" id="box1" name="ATM6" readonly="true" size="1" onfocus="this.blur()" value='-' onclick='tristate(this)'>
+                     <input type="text" id="box1" class="tristate" name="ATM6" readonly="true" size="1" onfocus="this.blur()" value='-' onclick='tristate(this)'>
                      <label for="box1">ATM6</label>
                  </div>
 

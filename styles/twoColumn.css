@@ -101,6 +101,9 @@ button:hover {
 
 .oneCheckbox {
   padding: 8px 48px;
+}
+
+.tristate {
   border: none;
   font-size: 30px;
   cursor: pointer;
