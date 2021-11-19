@@ -99,8 +99,11 @@ button:hover {
   justify-content: center;
 }
 
-.column .oneCheckbox {
+.oneCheckbox {
   padding: 8px 48px;
+  border: none;
+  font-size: 30px;
+  cursor: pointer;
 }
 
 .column h1 {
