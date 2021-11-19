@@ -22,7 +22,7 @@ function populateModpackList(){
     for(var i=0; i<modpackListNames.length; i++){
         modpackListElements[i] = document.createElement("li");
         const image = document.createElement("img")
-        image.src = "/img/"+modpackList[i].name+".png";
+        image.src = "../img/"+modpackList[i].name+".png";
         image.className = "pack"
         modpackListElements[i].setAttribute('id', "modpack"+i)
         modpackListElements[i].setAttribute('title', modpackList[i].name)
@@ -80,6 +80,29 @@ function search(){
         }
     }
 }
+
+/**
+ *  loops thru the given 3 values for the given control
+ */
+ function tristate(control) {
+    let value1 = "-";
+    let value2 = "\u2713";
+    let value3 = "\u2715";
+    switch (control.value.charAt(0)) {
+      case value1:
+        control.value = value2;
+      break;
+      case value2:
+        control.value = value3;
+      break;
+      case value3:
+        control.value = value1;
+      break;
+      default:
+        // display the current value if it's unexpected
+        alert(control.value);
+    }
+  }
 
 populateModpackList();
 setSearchOnClick();

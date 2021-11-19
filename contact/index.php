@@ -1,7 +1,7 @@
 <head>
     <meta charset="utf-8">
     <title>Contact</title>
-    <link rel="stylesheet" href="contact.css">
+    <link rel="stylesheet" href="../styles/contact.css">
 </head>
 
 <body>
@@ -10,8 +10,8 @@
         <nav id="menu">
             <div class="table">
                 <ul id="nav__links">
-                    <li><a href="/html/searchPacksByMod/">Search Packs by Mod</a> &nbsp; &nbsp;</li>
-                    <li><a href="/html/searchModsByPack/">Search Mods by Pack</a> &nbsp; &nbsp;</li>
+                    <li><a href="../searchPacksByMod/">Search Packs by Mod</a> &nbsp; &nbsp;</li>
+                    <li><a href="../searchModsByPack/">Search Mods by Pack</a> &nbsp; &nbsp;</li>
                 </ul>
             </div>
         </nav>
