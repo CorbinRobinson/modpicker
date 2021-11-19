@@ -22,7 +22,7 @@ function populateModpackList(){
     for(var i=0; i<modpackListNames.length; i++){
         modpackListElements[i] = document.createElement("li");
         const image = document.createElement("img")
-        image.src = "img/"+modpackList[i].name+".png";
+        image.src = "/img/"+modpackList[i].name+".png";
         image.className = "pack"
         modpackListElements[i].setAttribute('id', "modpack"+i)
         modpackListElements[i].setAttribute('title', modpackList[i].name)

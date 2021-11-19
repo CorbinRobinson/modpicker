@@ -1,0 +1,131 @@
+/*
+    Corbin Robinson
+    10/13/2021
+*/
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #23272a;
+}
+
+li,
+a,
+button {
+  font-family: "Roboto", sans-serif;
+  color: rgb(240, 240, 240);
+  text-decoration: none;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background: #23272a;
+  color: rgb(240, 240, 240);
+  flex: 1;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10%;
+}
+
+#nav__links {
+  list-style: none;
+}
+
+#nav__links ul {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+#nav__links li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+#nav__links li a {
+  transition: all 0.3 ease 0s;
+}
+
+#nav__links li a:hover {
+  color: darkcyan;
+}
+
+#logo {
+  cursor: pointer;
+}
+
+button {
+  padding: 9px 25px;
+  background-color: rgb(152, 177, 243);
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+}
+
+button:hover {
+  background-color: darkred;
+}
+
+#search {
+  width: 100px;
+  height: auto;
+  margin: 10px;
+}
+
+.table {
+  display: table;
+  margin: 0 auto;
+}
+
+#nav__links ul {
+  min-width: 696px;
+  list-style: none;
+  padding-top: 20px;
+}
+#nav__links li {
+  display: inline;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 48px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.column .oneCheckbox {
+  padding: 8px 48px;
+}
+
+.column h1 {
+  margin: 16px 0;
+  border-left: 5px solid #4287f5;
+  padding-left: 16px;
+}
+
+.pack {
+  width: 100px;
+  height: auto;
+}
+
+#packs__list {
+  list-style: none;
+}
+
+#packs__list ul {
+  list-style: none;
+  padding: 20px 25px;
+}
+
+#packs__list li {
+  padding: 10px;
+  display: inline;
+  height: 300px;
+  width: 300px;
+}

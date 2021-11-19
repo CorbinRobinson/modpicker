@@ -12,20 +12,17 @@
     <body>
 
         <header>
-            <img id="logo" src="img/logo.svg" alt="creeper" width="50" height="50">
+            <img id="logo" src="/img/logo.svg" alt="creeper" width="50" height="50">
             <nav id="menu">
                 <div class="table">
                     <ul id="nav__links">
-                        <li><a href="searchPacksByMod.html">Search Packs by Mod</a> &nbsp; &nbsp;</li>
-                        <li><a href="searchModsByPack.html">Search Mods by Pack</a> &nbsp; &nbsp;</li>
-                        <li><a href="profile.html">Profile</a> &nbsp; &nbsp;</li>
-                        <li><a href="signup.html">Signup</a> &nbsp; &nbsp;</li>
-                        <li><a href="login.html">Login</a></li>
+                        <li><a href="/html/searchPacksByMod/">Search Packs by Mod</a> &nbsp; &nbsp;</li>
+                        <li><a href="/html/searchModsByPack/">Search Mods by Pack</a> &nbsp; &nbsp;</li>
                     </ul>
                 </div>
             </nav>
             <div>
-                <a class="cta" href="contact.html"><button>Contact</button></a>
+                <a class="cta" href="/html/contact/"><button>Contact</button></a>
             </div>
         </header>
 
