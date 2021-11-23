@@ -13,11 +13,6 @@ function populateModpackList(){
     modpackList.push(new modpack("ATM6", ["Quark", "Morph-o-Tool", "Immersive Posts"]))
     modpackList.push(new modpack("Plunger", ["Ender Mail", "Crafting Tweaks", "Biomes O' Plenty"]))
     var modpackListElements = [];
-    var modpackListNames = [
-        "ATM6",
-        "skyFactory",
-        "RLCraft"
-    ];
 
     for(var i=0; i<modpackListNames.length; i++){
         modpackListElements[i] = document.createElement("li");

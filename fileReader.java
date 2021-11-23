@@ -2,6 +2,14 @@ import java.io.*;
 
 public class fileReader {
     public static void main(String[] args) {
+        //createModlist();
+    }
+
+    public static void createOverallModlist(){
+        
+    }
+
+    public static void createModlist(){
         File file = new File("modpackInfo\\bleh.txt");
         String newFile = "Mineshafts&Monsters.txt";
         try {
@@ -22,7 +30,6 @@ public class fileReader {
         } catch (Exception e) {
             System.out.println(e);
         }
-
     }
 
     public static void createFile(String fileName) {
