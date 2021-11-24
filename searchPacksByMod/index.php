@@ -12,7 +12,6 @@
  </head>
 
  <body>
-
      <header>
          <img id="logo" src="../img/logo.svg" alt="creeper" width="50" height="50">
          <nav id="menu">
@@ -69,3 +68,24 @@
  </body>
 
  </html>
+
+ <?php
+
+    //connect to mysql
+    $conn = new mysqli("localhost", "root", "", "modPickerDB");
+    if ($conn->connect_error) {
+        die("Connection failed: " . $conn->connect_error);
+    }
+
+    //$query = "SELECT modlist, name FROM modpack WHERE name = 'all-the-mods-6'";
+    $query = "SELECT mods FROM allmods";
+    $result = mysqli_query($conn, $query);
+    if ($result->num_rows > 0) {
+        $row = implode(mysqli_fetch_assoc($result));
+        $modsArray = explode(PHP_EOL, $row);
+        echo $modsArray[1];
+        // echo "" . $row["mods"][2];
+    } else {
+        echo "no results";
+    }
+    ?>
