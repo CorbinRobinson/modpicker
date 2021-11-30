@@ -32,7 +32,7 @@
              </div>
          </nav>
          <div>
-             <a class="cta" href="/html/contact/"><button>Contact</button></a>
+             <a class="cta" href="../contact/"><button>Contact</button></a>
          </div>
      </header>
 
