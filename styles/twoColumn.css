@@ -99,13 +99,24 @@ button:hover {
   justify-content: center;
 }
 
+#grpCheckbox {
+  list-style: none;
+  overflow: scroll;
+  -webkit-overflow-scrolling: touch;
+  height: 500px;
+}
+
+#grpCheckbox li {
+  list-style: none;
+}
+
 .oneCheckbox {
-  padding: 8px 48px;
+  padding-top: 10px;
 }
 
 .tristate {
   border: none;
-  font-size: 30px;
+  font-size: 25px;
   cursor: pointer;
 }
 
@@ -122,15 +133,16 @@ button:hover {
 
 #packs__list {
   list-style: none;
+  overflow: scroll;
+  -webkit-overflow-scrolling: touch;
+  height: 500px;
 }
 
 #packs__list ul {
   list-style: none;
-  padding: 20px 25px;
 }
 
 #packs__list li {
-  padding: 10px;
   display: inline;
   height: 300px;
   width: 300px;

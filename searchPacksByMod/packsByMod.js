@@ -97,8 +97,8 @@ function search() {
  */
 function tristate(control) {
   let value1 = "-";
-  let value2 = "\u2713";
-  let value3 = "\u2715";
+  let value2 = "\u274C";
+  let value3 = "\u2705";
   switch (control.value.charAt(0)) {
     case value1:
       control.value = value2;
@@ -115,5 +115,5 @@ function tristate(control) {
   }
 }
 
-populateModpackList();
+//populateModpackList();
 setSearchOnClick();

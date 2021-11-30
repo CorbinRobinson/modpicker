@@ -2,6 +2,15 @@
     Corbin Robinson
     10/13/2021
 -->
+
+ <?php
+    //connect to mysql
+    $conn = new mysqli("localhost", "root", "", "modPickerDB");
+    if ($conn->connect_error) {
+        die("Connection failed: " . $conn->connect_error);
+    }
+    ?>
+
  <!DOCTYPE html>
  <html lang="en">
 
@@ -32,9 +41,29 @@
          <div class="column">
              <h1 id="modsHeader">Mods</h1>
              <button id="search">Search</button>
-             <div id="grpCheckbox">
+             <ul id="grpCheckbox">
+                 <?php
+                    $query = "SELECT mods FROM allmods";
+                    $result = mysqli_query($conn, $query);
+                    if ($result->num_rows > 0) {
+                        $row = implode(mysqli_fetch_assoc($result));
+                        $modsArray = explode(PHP_EOL, $row);
+                        //echo $modsArray[3];
+                        foreach ($modsArray as $mod) {
+                            echo '
+                                <li class = "oneCheckbox">
+                                    <input type="text" class="tristate" name="' . $mod . '" readonly="true" size="1" onfocus="this.blur()" value="-" onclick="tristate(this)">
+                                    <label for="' . $mod . '">' . $mod . '</label>
+                                </li>
+                            ';
+                            // echo $mod;
+                        }
+                    } else {
+                        echo "no results";
+                    }
 
-                 <div class="oneCheckbox">
+                    ?>
+                 <!-- <div class="oneCheckbox">
                      <input type="text" id="box1" class="tristate" name="ATM6" readonly="true" size="1" onfocus="this.blur()" value='-' onclick='tristate(this)'>
                      <label for="box1">ATM6</label>
                  </div>
@@ -47,20 +76,32 @@
                  <div class="oneCheckbox">
                      <input type="checkbox" id="box3" name="Sky Factory">
                      <label for="box3">Sky Factory</label>
-
-                 </div>
-             </div>
+                 </div> -->
+             </ul>
 
          </div>
          <div class="column">
              <h1>Modpacks</h1>
              <p id="checkboxTest"></p>
              <ul id="packs__list">
-                 <!-- <li><img class="pack" id="ATM6" src="img/ATM6.gif"></li>
-                    <li><img class="pack" id="RLCraft" src="img/rlCraft.png"></li>
-                    <li><img class="pack" id="Sky Factory" src="img/skyFactory.png"></li> -->
+                 <?php
+                    $query = "SELECT img, url, name FROM modpack";
+                    $result = mysqli_query($conn, $query);
+                    if ($result->num_rows > 0) {
+                        while ($row = mysqli_fetch_assoc($result)) {
+                            echo '
+                                <li>
+                                    <a href="' . $row['url'] . '" target="_blank" >
+                                        <img title="' . $row['name'] . '" class="pack" src="data:image/jpeg;base64, ' . base64_encode($row['img']) . '"/>
+                                    </a>
+                                </li>
+                            ';
+                        }
+                    } else {
+                        echo "notta";
+                    }
+                    ?>
              </ul>
-
          </div>
      </div>
      <script src="packsByMod.js">
@@ -71,21 +112,19 @@
 
  <?php
 
-    //connect to mysql
-    $conn = new mysqli("localhost", "root", "", "modPickerDB");
-    if ($conn->connect_error) {
-        die("Connection failed: " . $conn->connect_error);
-    }
 
     //$query = "SELECT modlist, name FROM modpack WHERE name = 'all-the-mods-6'";
-    $query = "SELECT mods FROM allmods";
-    $result = mysqli_query($conn, $query);
-    if ($result->num_rows > 0) {
-        $row = implode(mysqli_fetch_assoc($result));
-        $modsArray = explode(PHP_EOL, $row);
-        echo $modsArray[1];
-        // echo "" . $row["mods"][2];
-    } else {
-        echo "no results";
-    }
+    // $query = "SELECT mods FROM allmods";
+    // $result = mysqli_query($conn, $query);
+    // if ($result->num_rows > 0) {
+    //     $row = implode(mysqli_fetch_assoc($result));
+    //     $modsArray = explode(PHP_EOL, $row);
+    //     //echo $modsArray[3];
+    //     foreach ($modsArray as $mod) {
+    //         echo $mod;
+    //     }
+    // } else {
+    //     echo "no results";
+    // }
+
     ?>
