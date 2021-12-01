@@ -22,10 +22,12 @@
 
     <body>
 
-        <div>
-            <canvas id="myCanvas" width="500" height="500" style="border:1px solid #000000;">
+        <div id="contactCenterDiv">
+            <div>
+                <canvas id="myCanvas" width="500" height="500" style="border:1px solid #000000;">
+            </div>
             </canvas>
-            <a id="canvasSend"><button>Send us a message!</button></a>
+            <button id="clearButton">Send us a message!</button>
         </div>
 
     </body>
