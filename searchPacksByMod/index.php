@@ -18,6 +18,29 @@
      <meta charset="utf-8">
      <title>Search Packs by Mod</title>
      <link rel="stylesheet" href="../styles/twoColumn.css">
+     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+     <script>
+         $(document).ready(function() {
+             $("#search").click(function() {
+                 var grpCheckbox = document.getElementById("grpCheckbox");
+                 var checkboxes = grpCheckbox.getElementsByTagName("INPUT");
+
+                 //Get checkbox preferences
+                 var modsArray = new Array();
+                 for (var i = 0; i < checkboxes.length; i++) {
+                     if (checkboxes[i].value == "\u2705") {
+                         modsArray[checkboxes[i].getAttribute("name")] = true;
+                     } else if (checkboxes[i].value == "\u274C") {
+                         modsArray[checkboxes[i].getAttribute("name")] = false;
+                     }
+                 }
+
+                 $("#packs__list").load("loadModPacks.php", {
+                     modsArray: modsArray
+                 });
+             });
+         });
+     </script>
  </head>
 
  <body>
@@ -40,8 +63,8 @@
      <div class="row">
          <div class="column">
              <h1 id="modsHeader">Mods</h1>
-             <form id="grpCheckbox" method="post">
-                 <button type="submit" id="search">Search</button>
+             <button id="search">Search</button>
+             <form id="grpCheckbox" method="post" action>
                  <?php
                     $query = "SELECT mods FROM allmods";
                     $result = mysqli_query($conn, $query);
@@ -55,7 +78,6 @@
                                     <label for="' . $mod . '">' . $mod . '</label>
                                 </fieldset>
                             ';
-                            // echo $mod;
                         }
                     } else {
                         echo "no results";
