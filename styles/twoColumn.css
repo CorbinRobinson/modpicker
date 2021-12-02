@@ -112,6 +112,7 @@ button:hover {
 
 .oneCheckbox {
   padding-top: 10px;
+  border: 0;
 }
 
 .tristate {

@@ -40,21 +40,20 @@
      <div class="row">
          <div class="column">
              <h1 id="modsHeader">Mods</h1>
-             <button id="search">Search</button>
-             <ul id="grpCheckbox">
+             <form id="grpCheckbox" method="post">
+                 <button type="submit" id="search">Search</button>
                  <?php
                     $query = "SELECT mods FROM allmods";
                     $result = mysqli_query($conn, $query);
                     if ($result->num_rows > 0) {
                         $row = implode(mysqli_fetch_assoc($result));
                         $modsArray = explode(PHP_EOL, $row);
-                        //echo $modsArray[3];
                         foreach ($modsArray as $mod) {
                             echo '
-                                <li class = "oneCheckbox">
+                                <fieldset class = "oneCheckbox">
                                     <input type="text" class="tristate" name="' . $mod . '" readonly="true" size="1" onfocus="this.blur()" value="-" onclick="tristate(this)">
                                     <label for="' . $mod . '">' . $mod . '</label>
-                                </li>
+                                </fieldset>
                             ';
                             // echo $mod;
                         }
@@ -63,21 +62,7 @@
                     }
 
                     ?>
-                 <!-- <div class="oneCheckbox">
-                     <input type="text" id="box1" class="tristate" name="ATM6" readonly="true" size="1" onfocus="this.blur()" value='-' onclick='tristate(this)'>
-                     <label for="box1">ATM6</label>
-                 </div>
-
-                 <div class="oneCheckbox">
-                     <input type="checkbox" id="box2" name="RLCraft">
-                     <label for="box2">RLCraft</label>
-                 </div>
-
-                 <div class="oneCheckbox">
-                     <input type="checkbox" id="box3" name="Sky Factory">
-                     <label for="box3">Sky Factory</label>
-                 </div> -->
-             </ul>
+             </form>
 
          </div>
          <div class="column">
@@ -109,22 +94,3 @@
  </body>
 
  </html>
-
- <?php
-
-
-    //$query = "SELECT modlist, name FROM modpack WHERE name = 'all-the-mods-6'";
-    // $query = "SELECT mods FROM allmods";
-    // $result = mysqli_query($conn, $query);
-    // if ($result->num_rows > 0) {
-    //     $row = implode(mysqli_fetch_assoc($result));
-    //     $modsArray = explode(PHP_EOL, $row);
-    //     //echo $modsArray[3];
-    //     foreach ($modsArray as $mod) {
-    //         echo $mod;
-    //     }
-    // } else {
-    //     echo "no results";
-    // }
-
-    ?>

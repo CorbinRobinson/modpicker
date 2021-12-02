@@ -69,27 +69,31 @@ function setSearchOnClick() {
 function search() {
   var grpCheckbox = document.getElementById("grpCheckbox");
   var checkboxes = grpCheckbox.getElementsByTagName("INPUT");
-  var selected = new Array();
+
+  //Get checkbox preferences
+  var modsArray = new Array();
   for (var i = 0; i < checkboxes.length; i++) {
-    if (checkboxes[i].checked) {
-      selected.push(checkboxes[i]);
+    if (checkboxes[i].value == "\u2705") {
+      modsArray[checkboxes[i].getAttribute("name")] = true;
+    } else if (checkboxes[i].value == "\u274C") {
+      modsArray[checkboxes[i].getAttribute("name")] = false;
     }
   }
-  var packsList = document.getElementById("packs__list");
-  var packsArray = packsList.getElementsByTagName("IMG");
-  //document.getElementById("checkboxTest").innerHTML = selected[0].toString();
-  //document.getElementById("checkboxTest").innerHTML = packsArray[0].getAttribute("id");
-  for (var i = 0; i < packsArray.length; i++) {
-    packsArray[i].style.visibility = "collapse";
-    for (var k = 0; k < selected.length; k++) {
-      if (
-        selected[k].getAttribute("name") == packsArray[i].getAttribute("id")
-      ) {
-        packsArray[i].style.visibility = "visible";
-        break;
-      }
-    }
-  }
+
+  // var packsList = document.getElementById("packs__list");
+  // var packsArray = packsList.getElementsByTagName("IMG");
+  // //document.getElementById("checkboxTest").innerHTML = packsArray[0].getAttribute("id");
+  // for (var i = 0; i < packsArray.length; i++) {
+  //   packsArray[i].style.visibility = "collapse";
+  //   for (var k = 0; k < selected.length; k++) {
+  //     if (
+  //       selected[k].getAttribute("name") == packsArray[i].getAttribute("id")
+  //     ) {
+  //       packsArray[i].style.visibility = "visible";
+  //       break;
+  //     }
+  //   }
+  // }
 }
 
 /**
@@ -97,8 +101,8 @@ function search() {
  */
 function tristate(control) {
   let value1 = "-";
-  let value2 = "\u274C";
-  let value3 = "\u2705";
+  let value2 = "\u2705";
+  let value3 = "\u274C";
   switch (control.value.charAt(0)) {
     case value1:
       control.value = value2;
@@ -116,4 +120,4 @@ function tristate(control) {
 }
 
 //populateModpackList();
-setSearchOnClick();
+//setSearchOnClick();
