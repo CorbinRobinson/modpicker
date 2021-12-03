@@ -26,7 +26,7 @@
                  var checkboxes = grpCheckbox.getElementsByTagName("INPUT");
 
                  //Get checkbox preferences
-                 var modsArray = new Array();
+                 var modsArray = {};
                  for (var i = 0; i < checkboxes.length; i++) {
                      if (checkboxes[i].value == "\u2705") {
                          modsArray[checkboxes[i].getAttribute("name")] = true;
@@ -34,14 +34,15 @@
                          modsArray[checkboxes[i].getAttribute("name")] = false;
                      }
                  }
-
+                 console.log(modsArray);
                  $("#packs__list").load("loadModPacks.php", {
-                     modsArray: modsArray
+                     mods: JSON.stringify(modsArray)
                  });
              });
          });
      </script>
  </head>
+
 
  <body>
      <header>
@@ -91,23 +92,23 @@
              <h1>Modpacks</h1>
              <p id="checkboxTest"></p>
              <ul id="packs__list">
-                 <?php
-                    $query = "SELECT img, url, name FROM modpack";
-                    $result = mysqli_query($conn, $query);
-                    if ($result->num_rows > 0) {
-                        while ($row = mysqli_fetch_assoc($result)) {
-                            echo '
+                 <!-- <?php
+                        $query = "SELECT img, url, name FROM modpack";
+                        $result = mysqli_query($conn, $query);
+                        if ($result->num_rows > 0) {
+                            while ($row = mysqli_fetch_assoc($result)) {
+                                echo '
                                 <li>
                                     <a href="' . $row['url'] . '" target="_blank" >
                                         <img title="' . $row['name'] . '" class="pack" src="data:image/jpeg;base64, ' . base64_encode($row['img']) . '"/>
                                     </a>
                                 </li>
                             ';
+                            }
+                        } else {
+                            echo "notta";
                         }
-                    } else {
-                        echo "notta";
-                    }
-                    ?>
+                        ?> -->
              </ul>
          </div>
      </div>
