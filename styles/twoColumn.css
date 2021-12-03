@@ -119,6 +119,7 @@ button:hover {
   border: none;
   font-size: 25px;
   cursor: pointer;
+  flex: 1;
 }
 
 .column h1 {

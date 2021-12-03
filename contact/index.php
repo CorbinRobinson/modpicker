@@ -12,11 +12,12 @@
                 <ul id="nav__links">
                     <li><a href="../searchPacksByMod/">Search Packs by Mod</a> &nbsp; &nbsp;</li>
                     <li><a href="../searchModsByPack/">Search Mods by Pack</a> &nbsp; &nbsp;</li>
+                    <li><a href="../techsUsed/">Technologies Used</a> &nbsp; &nbsp;</li>
                 </ul>
             </div>
         </nav>
         <div>
-            <a class="cta" href="/html/contact/"><button>Contact</button></a>
+            <a class="cta" href="../contact/"><button>Contact</button></a>
         </div>
     </header>
 

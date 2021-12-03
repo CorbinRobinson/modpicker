@@ -15,6 +15,7 @@
                 <ul id="nav__links">
                     <li><a href="../searchPacksByMod/">Search Packs by Mod</a> &nbsp; &nbsp;</li>
                     <li><a href="../searchModsByPack/">Search Mods by Pack</a> &nbsp; &nbsp;</li>
+                    <li><a href="../techsUsed/">Technologies Used</a> &nbsp; &nbsp;</li>
                 </ul>
             </div>
         </nav>
@@ -36,8 +37,7 @@
         </div>
         <div class="column">
             <h1>Mods</h1>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/pDQZRhQq584" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-            </iframe>
+
         </div>
     </div>
 </body>
