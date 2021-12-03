@@ -21,15 +21,15 @@ if (count($mods) > 0) {
                     break;
                 }
             }
-            echo $flag;
-
-            echo '
+            if ($flag) {
+                echo '
                         <li>
                             <a href="' . $row['url'] . '" target="_blank" >
                                 <img title="' . $row['name'] . '" class="pack" src="data:image/jpeg;base64, ' . base64_encode($row['img']) . '"/>
                             </a>
                         </li>
                     ';
+            }
         }
     } else {
         echo "sql broked";

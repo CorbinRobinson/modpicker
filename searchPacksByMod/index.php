@@ -29,9 +29,9 @@
                  var modsArray = {};
                  for (var i = 0; i < checkboxes.length; i++) {
                      if (checkboxes[i].value == "\u2705") {
-                         modsArray[checkboxes[i].getAttribute("name")] = true;
+                         modsArray[checkboxes[i].getAttribute("name").slice(0, -1)] = true;
                      } else if (checkboxes[i].value == "\u274C") {
-                         modsArray[checkboxes[i].getAttribute("name")] = false;
+                         modsArray[checkboxes[i].getAttribute("name").slice(0, -1)] = false;
                      }
                  }
                  console.log(modsArray);
