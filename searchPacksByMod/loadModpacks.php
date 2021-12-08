@@ -25,7 +25,7 @@ if (count($mods) > 0) {
                 echo '
                         <li>
                             <a href="' . $row['url'] . '" target="_blank" >
-                                <img title="' . $row['name'] . '" class="pack" src="data:image/jpeg;base64, ' . base64_encode($row['img']) . '"/>
+                                <img style="border-radius: 10px;" title="' . $row['name'] . '" class="pack" src="data:image/jpeg;base64, ' . base64_encode($row['img']) . '"/>
                             </a>
                         </li>
                     ';
@@ -42,7 +42,7 @@ if (count($mods) > 0) {
             echo '
                 <li>
                     <a href="' . $row['url'] . '" target="_blank" >
-                        <img title="' . $row['name'] . '" class="pack" src="data:image/jpeg;base64, ' . base64_encode($row['img']) . '"/>
+                        <img style="border-radius: 10px;" title="' . $row['name'] . '" class="pack" src="data:image/jpeg;base64, ' . base64_encode($row['img']) . '"/>
                     </a>
                 </li>
             ';

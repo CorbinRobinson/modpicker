@@ -1,4 +1,7 @@
-<head>
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
     <meta charset="utf-8">
     <title>Contact</title>
     <link rel="stylesheet" href="../styles/contact.css">
@@ -17,21 +20,20 @@
             </div>
         </nav>
         <div>
-            <a class="cta" href="../contact/"><button>Contact</button></a>
+            <form class="cta" action="../contact/" method="get"><button>Contact</button></form>
         </div>
     </header>
 
-    <body>
-
-        <div id="contactCenterDiv">
-            <div>
-                <canvas id="myCanvas" width="500" height="500" style="border:1px solid #000000;">
-            </div>
+    <div id="contactCenterDiv">
+        <div>
+            <canvas id="myCanvas" width="500" height="500" style="border:1px solid #000000;">
             </canvas>
-            <button id="clearButton">Send us a message!</button>
         </div>
+        <button id="clearButton">Send us a message!</button>
+    </div>
 
-    </body>
 
     <script src="contact.js"></script>
 </body>
+
+</html>

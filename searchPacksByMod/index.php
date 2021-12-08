@@ -57,7 +57,7 @@
              </div>
          </nav>
          <div>
-             <a class="cta" href="../contact/"><button>Contact</button></a>
+             <form class="cta" action="../contact/" method="get"><button>Contact</button></form>
          </div>
      </header>
 
@@ -66,7 +66,7 @@
          <div class="column">
              <h1 id="modsHeader">Mods</h1>
              <button id="search">Search</button>
-             <form id="grpCheckbox" method="post" action>
+             <form id="grpCheckbox" method="post">
                  <?php
                     $query = "SELECT mods FROM allmods";
                     $result = mysqli_query($conn, $query);

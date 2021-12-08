@@ -1,3 +1,11 @@
+<?php
+//connect to mysql
+$conn = new mysqli("localhost", "root", "", "modPickerDB");
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+}
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -5,6 +13,17 @@
     <meta charset="utf-8">
     <title>Search Mods by Pack</title>
     <link rel="stylesheet" href="../styles/twoColumn.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script>
+        $(document).ready(function() {
+            $(".pack").click(function() {
+                var thisName = $(this).attr("title");
+                $("#grpCheckbox").load("loadMods.php", {
+                    name: thisName
+                });
+            });
+        });
+    </script>
 </head>
 
 <body>
@@ -20,7 +39,7 @@
             </div>
         </nav>
         <div>
-            <a class="cta" href="../contact/"><button>Contact</button></a>
+            <form class="cta" action="../contact/" method="get"><button>Contact</button></form>
         </div>
     </header>
 
@@ -29,15 +48,49 @@
             <h1>Modpacks</h1>
             <p id="checkboxTest"></p>
             <ul id="packs__list">
-                <li><img class="pack" id="ATM6" src="/img/atm6.gif"></li>
-                <li><img class="pack" id="RLCraft" src="/img/rlCraft.png"></li>
-                <li><img class="pack" id="Sky Factory" src="/img/skyFactory.png"></li>
+                <?php
+                $query = "SELECT img, url, name FROM modpack";
+                $result = mysqli_query($conn, $query);
+                if ($result->num_rows > 0) {
+                    while ($row = mysqli_fetch_assoc($result)) {
+                        echo '
+                            <li>
+                                <img style="border-radius: 10px;" title="' . $row['name'] . '" class="pack" src="data:image/jpeg;base64, ' . base64_encode($row['img']) . '"/>
+                            </li>
+                        ';
+                    }
+                } else {
+                    echo "notta";
+                }
+
+                ?>
             </ul>
 
         </div>
         <div class="column">
             <h1>Mods</h1>
+            <form id="grpCheckbox" method="post" action>
+                <!-- <?php
+                        // $query = "SELECT mods FROM allmods";
+                        // $result = mysqli_query($conn, $query);
+                        // if ($result->num_rows > 0) {
+                        //     $row = implode(mysqli_fetch_assoc($result));
+                        //     $modsArray = explode(PHP_EOL, $row);
+                        //     foreach ($modsArray as $mod) {
+                        //         echo '
+                        //                 <fieldset class = "oneCheckbox">
+                        //                     <input type="text" class="tristate" name="' . $mod . '" 
+                        //                         readonly="true" size="1" onfocus="this.blur()" onclick="tristate(this)">
+                        //                     <label for="' . $mod . '">' . $mod . '</label>
+                        //                 </fieldset>
+                        //             ';
+                        //     }
+                        // } else {
+                        //     echo "no results";
+                        // }
 
+                        ?> -->
+            </form>
         </div>
     </div>
 </body>

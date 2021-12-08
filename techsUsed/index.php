@@ -20,7 +20,7 @@
             </div>
         </nav>
         <div>
-            <a class="cta" href="../contact/"><button>Contact</button></a>
+            <form class="cta" action="../contact/" method="get"><button>Contact</button></form>
         </div>
     </header>
 
@@ -101,6 +101,10 @@
             <fieldset>
                 <legend>Validation</legend>
                 <p>All files validated correctly :))</p>
+                <img src="../img/packsByMod.png" style="height: 250px; width:auto">
+                <img src="../img/modsByPack.png" style="height: 250px; width:auto">
+                <img src="../img/contact.png" style="height: 250px; width:auto">
+                <img src="../img/techsUsed.png" style="height: 250px; width:auto">
             </fieldset>
         </li>
     </ul>
